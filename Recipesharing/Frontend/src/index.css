@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  width: 100%;
+  overflow-x: hidden; 
+  overflow-y: initial
+}
+
+.foot-1{
+    background-color: black;
+    height: 200px;
+    margin: 40px 5px 20px 10px;
+    object-fit: cover;
+    display: block;
+}
+
+.topics{
+  color: crimson;
+  margin-top: 30px;
+  margin-left: 50px;
+}
+
+.lists{
+  list-style: none;
+}
+
+.ele{
+  margin-left: 60px;
+}
+
+.ele li:hover{
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.insta-icon:hover {
+  color: pink;
+  cursor: pointer;
+}
+
+.nones{
+  color: rgb(188, 120, 84);
+  font-family: sans-serif;
+  font-weight: 600;
+}
+
+.paras{
+  font-weight: 500;
+  font-family:serif;
+  font-size: 18px;
+}

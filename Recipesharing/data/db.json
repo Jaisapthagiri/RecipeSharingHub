@@ -1,0 +1,334 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Spaghetti Carbonara",
+      "description": "A classic Italian pasta dish made with eggs, cheese, pancetta, and pepper. Simple, rich, and satisfying.",
+      "ingredients": [
+        "200g spaghetti",
+        "100g pancetta",
+        "2 large eggs",
+        "50g Parmesan cheese",
+        "Salt and black pepper to taste"
+      ],
+      "instructions": [
+        "Boil the spaghetti in salted water until al dente.",
+        "Fry the pancetta until crisp.",
+        "Beat the eggs and mix with grated Parmesan.",
+        "Drain pasta and quickly mix with pancetta and egg-cheese mixture.",
+        "Serve with extra Parmesan and pepper."
+      ],
+      "category": "Dinner",
+      "varient":"Veg",
+      "cuisine": "Italy",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Spaghetti_alla_Carbonara.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 152
+      },
+      "cook_time_minutes": 30,
+      "servings": 2
+    },
+    {
+      "id": "2",
+      "title": "Classic Pancakes",
+      "description": "Fluffy, golden pancakes perfect for a hearty breakfast.",
+      "ingredients": [
+        "1 cup all-purpose flour",
+        "2 tablespoons sugar",
+        "1 tablespoon baking powder",
+        "1/2 teaspoon salt",
+        "1 cup milk",
+        "1 egg",
+        "2 tablespoons melted butter"
+      ],
+      "instructions": [
+        "Whisk together dry ingredients in a bowl.",
+        "In another bowl, mix milk, egg, and melted butter.",
+        "Combine wet and dry ingredients.",
+        "Pour batter on hot greased skillet, cook until bubbles form, then flip.",
+        "Serve with syrup or toppings of choice."
+      ],
+      "category": "Breakfast",
+      "varient":"Veg",
+      "cuisine": "United States",
+      "image": "https://example.com/images/classic-pancakes.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 320
+      },
+      "cook_time_minutes": 20,
+      "servings": 4
+    },
+    {
+      "id": "3",
+      "title": "Chicken Tikka Masala",
+      "description": "Tender chicken chunks simmered in a rich and creamy spiced tomato sauce.",
+      "ingredients": [
+        "500g chicken breast",
+        "1 cup yogurt",
+        "2 tablespoons tikka masala spice",
+        "1 onion",
+        "2 cloves garlic",
+        "1 cup tomato puree",
+        "1/2 cup cream"
+      ],
+      "instructions": [
+        "Marinate chicken in yogurt and spices for at least 1 hour.",
+        "Grill or sauté the chicken until browned.",
+        "Sauté onion and garlic, add tomato puree and cream.",
+        "Add chicken to sauce and simmer until cooked through.",
+        "Serve with rice or naan."
+      ],
+      "category": "Dinner",
+      "varient":"Non-Veg",
+      "cuisine": "India",
+      "image": "https://example.com/images/chicken-tikka-masala.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 215
+      },
+      "cook_time_minutes": 45,
+      "servings": 4
+    },
+    {
+      "id": "4",
+      "title": "French Onion Soup",
+      "description": "A savory soup made with caramelized onions, beef broth, and melted cheese on toasted bread.",
+      "ingredients": [
+        "4 large onions",
+        "2 tablespoons butter",
+        "4 cups beef broth",
+        "1 teaspoon thyme",
+        "Salt and pepper to taste",
+        "French bread slices",
+        "1 cup grated Gruyère cheese"
+      ],
+      "instructions": [
+        "Caramelize onions in butter over low heat.",
+        "Add thyme and beef broth, simmer for 30 minutes.",
+        "Pour soup into bowls, top with bread slices and cheese.",
+        "Broil until cheese is melted and bubbly."
+      ],
+      "category": "Lunch",
+      "varient":"Non-Veg",
+      "cuisine": "France",
+      "image": "https://example.com/images/french-onion-soup.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 142
+      },
+      "cook_time_minutes": 60,
+      "servings": 4
+    },
+    {
+      "id": "5",
+      "title": "Shakshuka",
+      "description": "Poached eggs in a spicy tomato and bell pepper sauce, served hot with bread.",
+      "ingredients": [
+        "4 eggs",
+        "2 tomatoes",
+        "1 bell pepper",
+        "1 onion",
+        "2 cloves garlic",
+        "1 teaspoon paprika",
+        "Salt and pepper"
+      ],
+      "instructions": [
+        "Sauté onion, garlic, and bell pepper.",
+        "Add chopped tomatoes and spices, simmer to thicken.",
+        "Make wells in the sauce and crack in the eggs.",
+        "Cover and cook until eggs are just set.",
+        "Serve with crusty bread."
+      ],
+      "category": "Breakfast",
+      "varient":"Veg",
+      "cuisine": "Israel",
+      "image": "https://example.com/images/shakshuka.jpg",
+      "rating": {
+        "rate": 4.8,
+        "count": 198
+      },
+      "cook_time_minutes": 25,
+      "servings": 2
+    },
+    {
+      "id": "6",
+      "title": "Beef Tacos",
+      "description": "Spiced ground beef served in crispy taco shells with fresh toppings.",
+      "ingredients": [
+        "500g ground beef",
+        "1 packet taco seasoning",
+        "8 taco shells",
+        "1 cup shredded lettuce",
+        "1 tomato, diced",
+        "1/2 cup grated cheddar",
+        "Sour cream (optional)"
+      ],
+      "instructions": [
+        "Cook beef with taco seasoning.",
+        "Warm taco shells.",
+        "Fill shells with beef and toppings.",
+        "Serve immediately."
+      ],
+      "category": "Lunch",
+      "varient":"Non-Veg",
+      "cuisine": "Mexico",
+      "image": "https://example.com/images/beef-tacos.jpg",
+      "rating": {
+        "rate": 4.4,
+        "count": 305
+      },
+      "cook_time_minutes": 25,
+      "servings": 4
+    },
+    {
+      "id": "7",
+      "title": "Sushi Rolls",
+      "description": "Simple and fresh sushi rolls with rice, vegetables, and seafood or tofu.",
+      "ingredients": [
+        "2 cups sushi rice",
+        "4 sheets nori (seaweed)",
+        "1 cucumber",
+        "1 avocado",
+        "200g cooked shrimp or tofu",
+        "Soy sauce, wasabi, pickled ginger"
+      ],
+      "instructions": [
+        "Cook and season sushi rice.",
+        "Place rice on nori, add fillings.",
+        "Roll tightly and slice.",
+        "Serve with soy sauce and accompaniments."
+      ],
+      "category": "Dinner",
+      "varient":"Non-Veg",
+      "cuisine": "Japan",
+      "image": "https://example.com/images/sushi-rolls.jpg",
+      "rating": {
+        "rate": 4.9,
+        "count": 180
+      },
+      "cook_time_minutes": 40,
+      "servings": 2
+    },
+    {
+      "id": "8",
+      "title": "Falafel Wrap",
+      "description": "Crispy falafel balls wrapped in pita bread with fresh veggies and tahini sauce.",
+      "ingredients": [
+        "1 can chickpeas",
+        "1 onion",
+        "2 garlic cloves",
+        "1/4 cup parsley",
+        "2 tablespoons flour",
+        "Spices (cumin, coriander)",
+        "Pita bread, lettuce, tomato, tahini sauce"
+      ],
+      "instructions": [
+        "Blend chickpeas, onion, garlic, parsley, spices, and flour.",
+        "Form into balls and fry until golden.",
+        "Stuff pita with falafel, veggies, and sauce.",
+        "Serve fresh."
+      ],
+      "category": "Snack",
+      "varient":"Veg",
+      "cuisine": "Middle East",
+      "image": "https://example.com/images/falafel-wrap.jpg",
+      "rating": {
+        "rate": 4.6,
+        "count": 165
+      },
+      "cook_time_minutes": 35,
+      "servings": 3
+    },
+    {
+      "id": "9",
+      "title": "Pad Thai",
+      "description": "A popular Thai stir-fried noodle dish with eggs, tofu or shrimp, and a tangy-sweet sauce.",
+      "ingredients": [
+        "200g rice noodles",
+        "2 eggs",
+        "100g tofu or shrimp",
+        "2 tablespoons fish sauce",
+        "1 tablespoon tamarind paste",
+        "1 tablespoon sugar",
+        "Bean sprouts, peanuts, lime wedges"
+      ],
+      "instructions": [
+        "Soak noodles until soft.",
+        "Stir-fry protein and eggs.",
+        "Add noodles and sauce ingredients.",
+        "Toss with sprouts and serve with peanuts and lime."
+      ],
+      "category": "Dinner",
+      "varient":"Non-Veg",
+      "cuisine": "Thailand",
+      "image": "https://example.com/images/pad-thai.jpg",
+      "rating": {
+        "rate": 4.7,
+        "count": 220
+      },
+      "cook_time_minutes": 30,
+      "servings": 2
+    },
+    {
+      "id": "10",
+      "title": "Greek Salad",
+      "description": "A fresh, crisp salad with cucumbers, tomatoes, olives, onions, and feta cheese.",
+      "ingredients": [
+        "1 cucumber",
+        "2 tomatoes",
+        "1/2 red onion",
+        "1/2 cup kalamata olives",
+        "1/2 cup feta cheese",
+        "Olive oil, lemon juice, oregano"
+      ],
+      "instructions": [
+        "Chop vegetables and combine in a bowl.",
+        "Add olives and crumbled feta.",
+        "Drizzle with olive oil, lemon juice, and sprinkle oregano.",
+        "Toss and serve chilled."
+      ],
+      "category": "Lunch",
+      "varient":"Veg",
+      "cuisine": "Greece",
+      "image": "https://example.com/images/greek-salad.jpg",
+      "rating": {
+        "rate": 4.3,
+        "count": 112
+      },
+      "cook_time_minutes": 15,
+      "servings": 2
+    },
+    {
+      "id": "11",
+      "title": "Pav Bhaji",
+      "description": "A spicy mashed vegetable curry served with buttered bread rolls.",
+      "ingredients": [
+        "2 potatoes",
+        "1 cup mixed vegetables (peas, carrots, cauliflower)",
+        "1 onion",
+        "2 tomatoes",
+        "2 tablespoons pav bhaji masala",
+        "Butter, pav buns"
+      ],
+      "instructions": [
+        "Boil and mash vegetables.",
+        "Sauté onion and tomatoes, add masala and mashed vegetables.",
+        "Cook until thick.",
+        "Toast pav buns with butter.",
+        "Serve hot with lemon and onions."
+      ],
+      "category": "Snack",
+      "varient":"Veg",
+      "cuisine": "India",
+      "image": "https://example.com/images/pav-bhaji.jpg",
+      "rating": {
+        "rate": 4.5,
+        "count": 250
+      },
+      "cook_time_minutes": 35,
+      "servings": 4
+    }
+  ]
+}
